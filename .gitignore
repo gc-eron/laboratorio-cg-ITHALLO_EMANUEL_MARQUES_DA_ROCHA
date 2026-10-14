@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+# Relatorio da atividade e script gerador (nao versionar)
+*.docx
+gerar_relatorio.py
