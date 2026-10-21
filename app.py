@@ -4,7 +4,7 @@ import numpy as np
 st.set_page_config(page_title="Laboratorio de Computacao Grafica", page_icon="🎨")
 
 st.title("Laboratorio de Computacao Grafica")
-st.header("Ithallo Emanuel")
+st.header("Ithallo Emanuel Marques da Rocha")
 st.write("UniFil - Centro Universitario Filadelfia")
 st.write("Computacao Grafica - 2026/2")
 st.write("Atividade 1 - Relatorio de Instalacao do Ambiente")
